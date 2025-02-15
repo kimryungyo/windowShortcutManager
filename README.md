@@ -1,1 +1,1 @@
-# shortcutManager
+# WindowsShortcutManager v0.0.0-alpha (Developing)

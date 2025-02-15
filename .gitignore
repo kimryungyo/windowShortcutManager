@@ -1,3 +1,16 @@
+# Build
+build.py
+
+# Plan
+plan.md
+
+# Project Scanner
+project_scanner.py
+project_scanner.txt
+
+# Pyinstaller Output
+output
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
