@@ -1,4 +1,3 @@
-from time import sleep
 from WindowsShortcutManager.utils.logger import SingletonLogger
 from WindowsShortcutManager.utils.env import SingletonEnvValues
 from WindowsShortcutManager.utils.path import PATHS
